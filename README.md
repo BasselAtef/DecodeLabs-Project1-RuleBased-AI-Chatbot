@@ -1,6 +1,5 @@
 # DecodeLabs-Project1-RuleBased-AI-Chatbot
 
-Here is a concise, scannable `README.md` for your AI Chatbot project.
 
 ---
 
