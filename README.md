@@ -1,8 +1,3 @@
-# DecodeLabs-Project1-RuleBased-AI-Chatbot
-
-
----
-
 # Simple AI Chatbot
 
 A lightweight, rule-based Python chatbot that interacts with users in the terminal. It recognizes basic greetings, expressions of gratitude, and exit commands, responding dynamically using randomized variations.
